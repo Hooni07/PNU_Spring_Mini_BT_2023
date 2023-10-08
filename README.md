@@ -18,9 +18,9 @@
 
 ## 4주차(11.4)
 
-### Quick Sorting
+### 
 
-### 삽입 정렬(Insertion Sorting)
+### 
 
 ## 5주차(11.11)
 
@@ -32,7 +32,7 @@
 
 ## 7주차(11.25)
 
-### Quick Sorting
+### 
 
 ### 삽입 정렬(Insertion Sorting)
 
